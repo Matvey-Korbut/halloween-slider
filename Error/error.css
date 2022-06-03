@@ -1,0 +1,145 @@
+*{
+    margin: 0px;
+    padding: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+.body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.body_2{
+    margin-top: 35px;
+    display: flex;
+    box-shadow: 0 0 5px 2px rgb(205, 0, 247);
+    border-radius: 40px;
+    height: 700px;
+    width: 1500px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+}
+.titles {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    width: 1610px;
+    height: 110px;
+}
+.XCOMPANY {
+    display: flex;
+    align-items: center;
+    margin-left: 85px;
+    color: black;
+    font-size: 35px;
+    width: 510px;
+    height: 110px;
+}
+.home {
+    margin-left: 310px;
+    height: 110px;
+    width: 610px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.Home_1 {
+    font-size: 30px;
+    cursor: pointer;
+}
+.About {
+    font-size: 30px;
+    cursor: pointer;
+}
+.Contact {
+    font-size: 30px;
+    cursor: pointer;
+}
+.bode_3 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    width: 1500px;
+    height: 500px;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: flex-start;
+    align-items: center;
+    height: 410px;
+    width: 760px;
+}
+.imageGhost {
+    margin-left: 1241px;
+    height: 84px;
+    width: 815px;
+}
+.imageGhost img {
+    height: 410px;
+    width: 410px;
+}
+.Error404 {
+   margin-left: 205px;
+   height: 42px;
+   width: 1500px;
+   font-size: 30px;
+   color: black;
+}
+.HeyBuddy{
+   height: 119px;
+   width: 1301px;
+   font-size: 80px;
+   color: black;
+}
+.Text_2 {
+    margin-left: 162px;
+    height: 85px;
+    width: 1455px;
+    font-size: 30px;
+    color: black;
+}
+.Button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: azure;
+    height: 62px;
+    width: 184px;
+    border-radius: 40px;
+    margin-right: 983px;
+    cursor: pointer;
+}
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    height: 110px;
+    width: 1510px;
+}
+.Number {
+    font-size: 20px;
+}
+.Adress {
+    margin-left: 10px;
+    font-size: 20px;
+}
